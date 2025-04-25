@@ -25,9 +25,6 @@ The purpose of **al-Quran Kaream** is to make the Quran accessible to people of 
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
 
-If you want to contribute or host the site yourself, clone the repository:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/al-qurankaream.git
+
